@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Kubernetes tutorial, lets party.
+          Kubernetes tutorial, lets party. Don't you think?
         </p>
         <a
           className="App-link"
